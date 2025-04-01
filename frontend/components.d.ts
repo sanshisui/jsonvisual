@@ -13,6 +13,7 @@ declare module 'vue' {
     Button: typeof import('primevue/button')['default']
     Card: typeof import('primevue/card')['default']
     Dialog: typeof import('primevue/dialog')['default']
+    Divider: typeof import('primevue/divider')['default']
     Dropdown: typeof import('primevue/dropdown')['default']
     JsonFlowChart: typeof import('./src/components/JsonFlowChart.vue')['default']
     JsonTableDemo: typeof import('./src/components/JsonTableDemo.vue')['default']
