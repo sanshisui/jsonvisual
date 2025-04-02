@@ -25,11 +25,11 @@
     "@babel/types": "^7.26.10",
     "@primevue/auto-import-resolver": "^4.3.2",
     "@vitejs/plugin-vue": "^5.2.1",
-    "eslint": "^9.22.0",
+    "eslint": "^9.23.0",
     "eslint-plugin-vue": "^10.0.0",
     "typescript": "^5.8.2",
     "unplugin-vue-components": "^28.4.1",
-    "vite": "^6.2.2",
+    "vite": "6.2.3",
     "vue-tsc": "^2.2.8"
   }
 }
